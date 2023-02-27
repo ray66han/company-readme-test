@@ -1,8 +1,8 @@
-# 🚀 Project Title
+# 🏢 Company Name - Project Title
 
 Short description of your project goes here. Explain what your project does, who it's for, and why it's useful.
 
-## 🌟 Getting Started
+## 🚀 Getting Started
 
 To get started with this project, follow the instructions below.
 
@@ -26,7 +26,7 @@ We welcome contributions from anyone! Please follow the guidelines below to cont
 
 Explain how others can contribute to your project. This could include guidelines for submitting pull requests, reporting bugs, or suggesting new features.
 
-### 🎁 Sponsorship
+### 🌟 Sponsorship
 
 We rely on your support to continue maintaining this project. If you find this project useful, please consider sponsoring us. Click [here](https://www.github.com/sponsor/yourusername) to become a sponsor.
 
